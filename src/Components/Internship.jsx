@@ -1,6 +1,6 @@
 import React from "react";
 import internship from "../assets/internship.jpg"
-import inte from "../assets/INT.png"
+import inte from "../assets/Besant crtf.jpg"
 
 const Internship = () => {
   return (
