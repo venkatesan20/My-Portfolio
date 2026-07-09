@@ -2,8 +2,6 @@ import React from "react";
 import profileImg from "../assets/profileImg.png";
 import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
-
-
 const Hero = () => {
   return (
     <section className="hero">
@@ -24,7 +22,8 @@ const Hero = () => {
 
         <div className="hero-buttons">
           <a
-            href="/Resume/venkatesanResume.pdf"
+            href="/Resume/Venkatesan Resume.pdf"
+            target="_blank"
             className="btn secondary"
             style={{ color: "green", fontWeight: "500" }}
           >
